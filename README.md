@@ -6,6 +6,6 @@ To use this app, one needs to download the source code into their local reposito
 
 Below is the preview of the extension
 <p align="center">
-  <img src="https://github.com/dheerajvarma24/chrome_extension_for_leads_tab_tracker/blob/master/leads_tracker_1.jpg" width="350" title="executed state">
+  <img src="https://github.com/dheerajvarma24/chrome_extension_for_leads_tab_tracker/blob/master/leads_tracker_1.jpg" height="350" width="550" title="executed state">
 </p>
 
