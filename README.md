@@ -1,16 +1,11 @@
-# title(){return this.options.title||this.options.name}
+# This is a chrome extension project which automatically reads users current tabs and saves for future references.
+This extension is highly useful if we wan to track online profiles of our customers etc.
 
-## Supporting Scrimba
+To use this app, one needs to download the source code into their local repository. Then head into chrome extensions tab and turn on developer mode then upload the downloaded folder into the load uppacked section. Now the app should be up and running in your chrome browser .
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+Below is the preview of the extension
+<p align="center">
+  <img src="https://github.com/dheerajvarma24/chrome_extension_for_leads_tab_tracker/blob/master/leads_tracker_1.jpg" width="350" title="executed state">
+</p>
 
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
